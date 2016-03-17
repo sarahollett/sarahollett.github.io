@@ -1,4 +1,7 @@
-#Sustainable Authorship
+---
+layout: post
+title: Sustainable Authorship
+---
 
 We've been spending a lot of class time discussing the complete uncharted territory of the preservation of digital records. In my pre-5007 ignorance, I assumed that writing a document in Microsoft Word was fool-proof. We can, of course, take the attitude that it will be around long enough for when we will need it. At this point in my academic career, it seems unfathomable that some day someone may desperately need to read papers/notes etc that I wrote. I seems to me that thinking of sustainable authorship needs to be done on a higher level beyond our individual needs. It's not just one person writing their files in plain text Markdown, it's making people aware that there are *other* options. Microsoft Word is only popular because everyone uses it. 
 
