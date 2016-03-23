@@ -13,7 +13,7 @@ During the second lesson on API after I had created the metadata for my item, I 
 
 The introduction to Bash Command Line tutorial was doubly beneficial for me because it forced me to familiarize myself with GitBash. With a new understanding of GitBash, it also motivated me to go back and attempt to resolve my earlier issues. I realized quickly that commands I was using in the Command Prompt were going to be different in GitBash. Some searching online at Stackoverflow (http://stackoverflow.com/questions/32454589/git-2-5-1s-bash-console-doesnt-open-python-interpreter) quickly revealed that typing `python` into GitBash would not bring up the interpretor, but that `python -i` was required instead. Unfortunately the `403 Write acces denied` error did not fix itself in GitBash when I re-ran the script in GitBash.
 
-![creating new item in GitBash](/images/createnewitemgitbash.png)
+![creating new item in GitBash](/images/creatingnewitemgitbash.png)
 
 Despite GitBash being a better option than Command Prompt, some of the instructions in the intro tutorial were still inconsistent with GitBash. Milligan writes that in Windows, help pwd will bring up the manual for the command. However, above he is discussing the manual for `ls` rather than `pwd` and gives no instructions for bringing up the ls manual in Windows. It is also not clear if by Windows he means using GitBash in Windows to make it more equivalent to OS X/Linux.
 
