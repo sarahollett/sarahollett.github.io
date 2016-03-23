@@ -1,5 +1,7 @@
-#Social Network Analysis
-
+---
+layout: post
+title: Social Network Analysis
+---
 I would imagine that creating a tutorial on social network analysis would be very difficult. The nature of the tool makes it so that giving sample data and asking someone to do network analysis would be highly unrealistic. Social Network Analysis seems like the sort of tool that fuels an entire research project as its central focus rather than a helpful tool to make life easier. It is a project in and of itself.
 
 Not only is social network analysis a project that can shape an entire research project, but the background and context is necessary before an idea of how you will code your information can even begin. More so than anything we have done so far, this is really a tool that can not be valuable until we need it to answer our research questions, which drives how we use it. 
