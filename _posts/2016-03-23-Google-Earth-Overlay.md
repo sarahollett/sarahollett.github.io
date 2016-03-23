@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Earth Overlay
+title: The Simple Beauty of Google Earth Overlay
 ---
 Finally a skill I already possess! Back in 2013, I fought my way through many Google Earth overlays for an Archaeology course, specifically the archaeology of Halifax. Archaeology always seems to be ahead of the game on digital tools. I was using the overlay tool around the same time that this Programming Historian tutorial was written and at the time it was a new cool thing that my professor had been using. Maybe historians are now using Google Earth and Maps to visualize the geography of their topic. I know for myself, knowing the geography of a topic, especially if historians are studying connections (trade or other) between geographic locations. Sometimes the key to understanding their arguments can be a good understanding of how the locations of the places they study relate to one another. In Archaeology, this connection between points on a map is undeniably important, but could be used to better study history as well.
 
