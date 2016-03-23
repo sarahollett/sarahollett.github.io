@@ -8,6 +8,32 @@ From here, we can follow each step, but when we reached `for item in items: prin
 
 After you follow the instructions for getting Unicode, start back at the beginning. After `from libZotero import zotero`, then tell Python the user/group code and API Key for the Zotero library you want to use.
 
+`# On Zotero Tutorial 1
+## For this to work on Windows you've got a few extra steps to go through first!
+You want to enter `python -m pip install win_unicode_console` into the Command Line
+
+After a successful install you will go into your Python interpreter with the simple command `Python`
+
+Next you will want to import and enable, first with `import win_unicode_console` and then `win_unicode_console.enable()`
+
+### Unicode will help your machine understand what we will be doing with Zotero and prevent the hiccups that Emily & I encountered with Professor Graham. Now you can follow the slightly different process outlined below to go through the Tutorial. There are a few nuances over when and how you input the commands shown by the tutorial
+
+## Input the following commands on the Command Line in the Python interpreter. **This must be done right after you finished the Unicode process above (according to Graham the Unicode will not stick around and would have to be re-added if you close the Command Line)**
+
+The Tutorial Commands for Windows are as follows (NOTE: capitalization matters and you should only be getting >>> after every command you put in unless otherwise stated):
+* `from libZotero import zotero`
+* `zlib=zotero.Library('group','155975','<null>','9GLmvmZ1K1qGAz9QWcdlyf6L')`
+* `items = zlib.fetchItemsTop({'limit': 5, 'content': 'json,bib,coins'})`
+     * At this point the Tutorial says you should have an output, but you should NOT.
+* `for item in items:`
+     * At this point the Tutorial says to include the rest of the command, but it should be included after!
+* `     print 'Item Type: %s | Key: %s | Title: %s' % (item.itemType,item.itemKey, item.title)`
+     * you need to include a series of 4 spaces before this `print` command. A series metadata should appear.
+* `for item in items:`
+     * At this point the Tutorial says to include the rest of the command, but it should be included after!
+* `     print item.bibContent`
+     * you need to include a series of 4 spaces before this `print` command. A series metadata should appear.
+
 If we use the Programming Historian Library they advise, we get no input with the command, `items = zlib.fetchItemsTop({'limit': 5, 'content': 'json,bib,coins'})` 
 
 As well as we don't get the same metadata detail from command, `for item in items:
