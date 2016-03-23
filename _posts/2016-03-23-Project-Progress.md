@@ -1,5 +1,7 @@
-#Project Progress
-
+---
+layout: post
+title: Project Progress
+---
 Last week I decided that my final project would be a trivia game to test and review the class tutorial and mistakes we may have all made. Some questions will be very simple spot the difference type questions (markdown mistake, command line mistake, Zotero input mistake) with a sceenshot of the common error.
 
 Others will be images of data that include a broad question about what we *could* do. For this I am going to use an example of data in AntConc that was not used in the tutorials and ask which broad questions we could ask of the data with our results.
