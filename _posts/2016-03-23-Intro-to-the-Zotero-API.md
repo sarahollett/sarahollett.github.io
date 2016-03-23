@@ -8,7 +8,7 @@ From here, we can follow each step, but when we reached `for item in items: prin
 
 After you follow the instructions for getting Unicode, start back at the beginning. After `from libZotero import zotero`, then tell Python the user/group code and API Key for the Zotero library you want to use.
 
-`## Unicode instructions (couresty of Brad Wiebe)
+## Unicode instructions (couresty of Brad Wiebe)
 For this to work on Windows you've got a few extra steps to go through first!
 You want to enter `python -m pip install win_unicode_console` into the Command Line
 
