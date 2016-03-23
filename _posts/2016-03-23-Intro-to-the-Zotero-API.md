@@ -7,7 +7,9 @@ From here, we can follow each step, but when we reached `for item in items: prin
 ![unicode error](http://s29.postimg.org/cj0pc6hyf/unicodeerror.jpg)
 
 After you follow the instructions for getting Unicode, start back at the beginning. After `from libZotero import zotero`, then tell Python the user/group code and API Key for the Zotero library you want to use.
+
 ---
+
 #Unicode instructions (couresty of Brad Wiebe)
 For this to work on Windows you've got a few extra steps to go through first!
 You want to enter `python -m pip install win_unicode_console` into the Command Line
@@ -33,7 +35,9 @@ The Tutorial Commands for Windows are as follows (NOTE: capitalization matters a
      * At this point the Tutorial says to include the rest of the command, but it should be included after!
 * `     print item.bibContent`
      * you need to include a series of 4 spaces before this `print` command. A series metadata should appear.
+
 ---
+
 If we use the Programming Historian Library they advise, we get no input with the command, `items = zlib.fetchItemsTop({'limit': 5, 'content': 'json,bib,coins'})` 
 
 As well as we don't get the same metadata detail from command, `for item in items:
