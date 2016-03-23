@@ -2,7 +2,6 @@
 layout: post
 title: Benefits of GitBash
 ---
-
 Before completing the tutorials on introduction to using the command line and data mining, I had been hesitant to use GitBash as my primary command line. At first, I was using PowerShell until the Internet Archive and WGET tutorials would not work with PowerShell, particularly at the first command of the Internet Archive tutorial "python -m pip install".
 
 From there I began using the Command Prompt for Windows which worked fairly well but required re-learning some commands such as LS which is DIR in the Command Prompt. This was frustrating but I figured I could make do if it meant having a working command line. 
