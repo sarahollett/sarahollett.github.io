@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Benefits of GitBash
+title: Final Project Thoughts
 ---
 
 While I was home for February break, I had the best of intentions to get a lot of early(ish) work done on my final project. I thought about what I might like to focus on here and there but it wasn't until the Saturday night before I left that I started thinking more about it. Going to prove that, like shower thoughts, ideas often pop into our heads when we are not consciously trying to summon them, I came up with an idea while I was eating sushi last Saturday night. Let's call it sushi thoughts. 
