@@ -61,7 +61,7 @@ This is an interesting way to see the organization of your own metadata or if yo
 
 Tutorial 2: Creating a New Item
 
-The tutorial instructions were simple and the directory of options was easy to follow at the end so you can add various types of entries (document, videos, etc). But I received `403: Write access denied` when I inputted commands and ran the commands as a script. 
+The tutorial instructions were simple and the directory of options was easy to find online so you can add various types of entries (document, videos, etc). But I received `403: Write access denied` when I inputted commands and ran the commands as a script. 
 
 ![Creating New Item error](http://s13.postimg.org/u4ugxd5nb/creatingnewitem.png)
 
