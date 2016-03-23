@@ -1,4 +1,7 @@
-#Knowing Your Data
+---
+layout: post
+title: Knowing Your Data
+---
 
 This week's first tutorial "Cleaning Data with OpenRefine" has a subheading titled "getting to know your data". This particular phrase resonated with me, especially thinking about last week's tutorials. The health records that we organized into tabulated data last week were not metadata like the data that we downloaded online for this week's tutorial. In the case of the health records, we truly did need to 'know' the data because we had to create the structures ourselves, whereas OpenRefine has more utility to allow us to worry less about smaller details (like tabs, paragraph markers etc) that we were concerned about last week.
 
